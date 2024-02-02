@@ -12,4 +12,4 @@ Here’s a snapshot of my areas of focus:
 
 🌐 Versatile Solutions: My aim is to create versatile, responsive, and accessible web solutions, catering to diverse user needs and business objectives.
 
-Join me on this journey of innovation and excellence as we explore the exciting possibilities at the intersection of web development and AI technology 📈# HelloWorld-personal-
+Join me on this journey of innovation and excellence as we explore the exciting possibilities at the intersection of web development and AI technology 📈
