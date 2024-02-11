@@ -1,4 +1,4 @@
-👋 Hey, I'm James, a novice and up-to-date Full Stack Developer with a strong focus on JavaScript/TypeScript. My expertise lies in crafting dynamic, responsive web applications using popular frameworks like Next.js, Angular, and React. With a solid grounding in databases such as MongoDB, Supabase, and PostgreSQL, I design and manage data efficiently and effectively.
+👋 Hey, I'm James, an up-to-date Full Stack Developer with a strong focus on JavaScript/TypeScript. My expertise lies in crafting dynamic, responsive web applications using popular frameworks like Next.js, Angular, and React. With a solid grounding in databases such as MongoDB, Supabase, and PostgreSQL, I design and manage data efficiently and effectively.
 
 As a developer with a keen interest in AI, I constantly explore ways to integrate intelligent features into web applications, enhancing user experience and functionality. I believe in writing clean, efficient, and well-documented code, ensuring that my solutions are not only functional but also maintainable and scalable.
 
